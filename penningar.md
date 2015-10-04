@@ -1,3 +1,5 @@
+Kladd
+
 Tomas: Vad är pengar? Jag vet att vi tjatat och tjatat om detta, och
 vid det här laget är det inte längre någon som orkar lyssna på våra
 samtal, men jag kan helt enkelt inte låta ämnet vara. Pengar är ju vad
@@ -115,6 +117,8 @@ taget givet och inte något som kan och kanske bör omförhandlas i varje
 
 
 ---
+
+Några huvudpunkter:
 
 1. Vad är pengar? Natur eller konvention? Eller båda?
 
