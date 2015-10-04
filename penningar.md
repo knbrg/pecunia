@@ -1,4 +1,4 @@
-Kladd
+# Kladd
 
 Tomas: Vad är pengar? Jag vet att vi tjatat och tjatat om detta, och
 vid det här laget är det inte längre någon som orkar lyssna på våra
@@ -124,9 +124,8 @@ Några huvudpunkter:
 
 Jag antar att vi svarar konvention:
 
-1a. Hur gör vi pengar?
-
-1b. Varför gör vi pengar?
+* Hur gör vi pengar?
+* Varför gör vi pengar?
 
 Pengar som konstruktion: verktyg och maktmedel. Det allmänna goda som
 mål?  För mänsklighetens skull? (Ett dåligt verktyg är inget verktyg
