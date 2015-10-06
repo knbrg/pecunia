@@ -1,4 +1,8 @@
-Skiss över huvudsaklig infallsvinkel
+##Skiss över huvudsaklig infallsvinkel##
+
+En bakomliggande fråga: Är pengar i sig moraliskt neutrala? (Alltså i
+sig varken av godo eller ondo men kan användas på bra och dåliga sätt.)
+
 
 ---
 
