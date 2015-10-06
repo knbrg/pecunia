@@ -1,6 +1,6 @@
 ### Dialog ###
 
-** Tomas: ** Vad är pengar? Jag vet att vi tjatat och tjatat om detta,
+**Tomas:** Vad är pengar? Jag vet att vi tjatat och tjatat om detta,
 och vid det här laget är det inte längre någon som orkar lyssna på
 våra samtal, men jag kan helt enkelt inte låta ämnet vara. Pengar är
 ju vad allt i vuxenvärlden verkar snurra kring. Jämte kärlek eller sex
