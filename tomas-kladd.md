@@ -1,15 +1,6 @@
 # Kladd
 
-Tomas: Vad är pengar? Jag vet att vi tjatat och tjatat om detta, och
-vid det här laget är det inte längre någon som orkar lyssna på våra
-samtal, men jag kan helt enkelt inte låta ämnet vara. Pengar är ju vad
-allt i vuxenvärlden verkar snurra kring. Jämte kärlek eller sex verkar
-det vara det vi ägnar mest tid åt att tänka på, men vi funderar inte
-på vad de är, utan snarare hur vi får mer eller hur vi bäst använder
-dem vi har. Vi har gjort vissa framsteg i diskussionerna. Ibland
-tycker jag mig se hur saker och ting hänger ihop och hur pengar passar
-in och vad de är, men så gör sig någon ny infallsvinkel gällande och
-då rör det liksom på sig och jag tappar greppet.
+## Konstruktivism och verktyg
 
 Att säga att pengar är en social konstruktion leder inte särskilt
 långt, men det sätter iallafall fingret på en sak. Pengar är en
@@ -30,7 +21,7 @@ i marken?"  -- "för att det är såååå gulligt!". Eller förädlade
 grödor: "Varför saknar dessa vindruvor frön?"  "För att frön krasar så
 obehagligt mellan tänderna!"
 
-----
+## Evolution
 
 Vilken natur- och människosyn har de som arbetar med pengar? De som
 vinner sitt levebröd på finansmarknaden, våra bankirer och mäklare?
@@ -76,6 +67,8 @@ det ekonomiska och finansiella konventionerna eller med andra ord
 pengar som redskap användas för att verka för mänsklighetens
 gemensamma goda. Är det så de tänker, börshajarna?
 
+## Hypotes
+
 Jag är benägen att tänka att pengar utvecklats -- eller förädlats --
 till en sådan punkt där de gör mer skada än nytta. Men för att kunna
 diskutera pengarna på det sättet måste vi vara eniga om att pengarna
@@ -87,6 +80,8 @@ förändras till sin natur. De förändras till sin natur därför att ett
 redskaps natur helt ges av vad det kan uträtta för oss, och det står
 helt klart att vad vi kan göra med våra pengar har ändrats radikalt
 med tiden.
+
+## Reform?
 
 Jag inser naturligtvis att ingen en person eller grupp "ligger bakom"
 pengarnas konstruktion. Förvisso har vissa människor betydligt mer
@@ -113,23 +108,4 @@ förutsättningarna för att en finansiell marknad övervuvudtaget skall
 vara möjlig. Bara när de flesta tänker på pengar som något på det hela
 taget givet och inte något som kan och kanske bör omförhandlas i varje
 ögonblick, så går det att tjäna pengar på pengar.
-
-
-
----
-
-Några huvudpunkter:
-
-1. Vad är pengar? Natur eller konvention? Eller båda?
-   * Jag antar att vi svarar konvention:
-     * Hur gör vi pengar?
-     * Varför gör vi pengar?
-   * Pengar som konstruktion: verktyg och maktmedel. Det allmänna goda som mål?  För mänsklighetens skull? (Ett dåligt verktyg är inget verktyg annat än i parasitär bemärkelse. Det finns en klar mening i vilken en utsliten skruvmejsel inte längre är en skruvmejsel!) Verktyg för vissa eller verktyg för alla? 
-2. Pengar som värdefulla. 
-  * Den viktigaste frågan: Grundade i behov eller begär? (Är distinktionen hållbar? Spelar det någon roll om vi kan göra den tydlig eller inte?)
-
-3. Pengar och sanning: 
-  * måste man ljuga eller åtminstone anta vissa osanningar om man vill tjäna pengar på pengar? Är det fråga om en ädel lögn eller rena fantasier?
-
----
 
